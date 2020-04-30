@@ -20,5 +20,5 @@ Q3 Histrogram intersection between different frames of a given video, find simil
 HAS 3 FUNCTIONS
 1)  ICV_VISUALISE -: 		this function is used to visualise histogram frame by frame
 2) ICV_Histogram_two_frames -:  this function gives histogram of 2 specified frames
-3) ICV_Histogram_intersection -: THis function gives histogram and the intersection of the two 
+3) ICV_Histogram_intersection -: THis function gives histogram intersection of the two 
 				 frames.
